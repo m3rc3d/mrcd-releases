@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Release v0.1.4",
-  "pub_date": "2026-07-19T18:21:21.051Z",
+  "version": "0.1.5",
+  "notes": "Release v0.1.5",
+  "pub_date": "2026-07-19T18:24:05.041Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLelpacXFXdE9aMlBCcEdlT1pOdzVnYUtMYyttRXFZT2Zjbnl5Y1kvZHlJNXdmZkI2K1dGMmxoR0Y5NXFuOTNHV2NaU0h2T2FEZUZ6bWF5akErZklkZndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDg1Mjc2CWZpbGU6bXJjZC5hcHAudGFyLmd6CmRUMHZHTmxhd1pBRXNWUzQvQ1kwb3NGWW5ZSU9oNmkyVDcxNnNmamFUZFFoOExEdUZORmdkNDkrS3J1aE9SOHA1MVJHMGdOVHJnZkwxcmNmVG5jSUNnPT0K",
-      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.4_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLelNxMlA3WWJpYUJNL2dhR2o2SWVjTzZLVjd1Nk1WekptY3FlUjJ6RjNOVXhzZGhVS2lUaDd5eHBBL21KWVpMaWJHQzdLZGZJNHZOM1J4QjUyeG9pT3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDg1NDQyCWZpbGU6bXJjZC5hcHAudGFyLmd6CjhudDl1bUxISHRIS3JlWnBJVEFuRVliV1VQa1dudHFaaTJ4TXcycFFKeWRWOVVWL20ydC92cVhGKzdDRzBlZXdiVlZaN0dkb2N6ei96S2laYzZOSkJ3PT0K",
+      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.5_aarch64.tar.gz"
     }
   }
 }
