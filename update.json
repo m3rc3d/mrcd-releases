@@ -1,15 +1,15 @@
 {
-  "version": "0.1.21",
-  "notes": "Release v0.1.21",
-  "pub_date": "2026-07-27T14:19:28.541Z",
+  "version": "0.1.22",
+  "notes": "Release v0.1.22",
+  "pub_date": "2026-07-28T14:03:06.072Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLemM2N0Q3NVUvbnNIaklvK2E0SENJb2YyYkZKZEU4am9CNGNZVi9ZRUZYUE4wOHlCcVI4STFFSzAwSWgzR3I4VTN4TVIvbjZtd0pMcE1aS3hwZVBuY3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTYxOTUwCWZpbGU6bXJjZC5hcHAudGFyLmd6ClUxMm9VM01VK3dzMFZHaWRCYWtrM2c4YVUyOEc2Q21qN1lmSnJ6VWZMRXArcTA0aFRkNi9OcEc2UkxZbkdUVUp2QlRhODFhaDhXdExmb1VFZXNIS0R3PT0K",
-      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.21_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLelRQTTd6RnFuWDZwaG1NOVBZY0Z0cWM4YjllMmh1S1RzQlVoT0NjQW5sZmJxODhPeHFLWlZzODRXK1czNDFESHczblg1QmFWSmdtR1RwMXRUMVNLVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ3MzcyCWZpbGU6bXJjZC5hcHAudGFyLmd6CkZ6bE5jRTQ2U0JVVDdka2tYOFJkWGZiNWNTdTVXczZZUGJlTkw3K29hSHpFeUdITXZsdTNoRzhrdWZqQ25ENlNuZjlBb1h0WGJiWEpTMnhVSzJ0SUJBPT0K",
+      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.22_aarch64.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLemM2N0Q3NVUvbnNIaklvK2E0SENJb2YyYkZKZEU4am9CNGNZVi9ZRUZYUE4wOHlCcVI4STFFSzAwSWgzR3I4VTN4TVIvbjZtd0pMcE1aS3hwZVBuY3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTYxOTUwCWZpbGU6bXJjZC5hcHAudGFyLmd6ClUxMm9VM01VK3dzMFZHaWRCYWtrM2c4YVUyOEc2Q21qN1lmSnJ6VWZMRXArcTA0aFRkNi9OcEc2UkxZbkdUVUp2QlRhODFhaDhXdExmb1VFZXNIS0R3PT0K",
-      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.21_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWEycHdycnlLelRQTTd6RnFuWDZwaG1NOVBZY0Z0cWM4YjllMmh1S1RzQlVoT0NjQW5sZmJxODhPeHFLWlZzODRXK1czNDFESHczblg1QmFWSmdtR1RwMXRUMVNLVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ3MzcyCWZpbGU6bXJjZC5hcHAudGFyLmd6CkZ6bE5jRTQ2U0JVVDdka2tYOFJkWGZiNWNTdTVXczZZUGJlTkw3K29hSHpFeUdITXZsdTNoRzhrdWZqQ25ENlNuZjlBb1h0WGJiWEpTMnhVSzJ0SUJBPT0K",
+      "url": "https://github.com/m3rc3d/mrcd-releases/raw/main/mrcd_0.1.22_aarch64.tar.gz"
     }
   }
 }
